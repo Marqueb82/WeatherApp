@@ -1,0 +1,12 @@
+body{
+	background-image: url("weather.gif");
+	background-size: cover;
+}
+
+div {
+    margin: auto;
+    width: 35%;
+    border: 4px solid #73AD21;
+    border-radius: 12px;
+    padding: 10px;
+}
